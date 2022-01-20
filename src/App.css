@@ -1,0 +1,42 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgb(49, 6, 88);
+  color: white;
+  margin-top: 0px;
+}
+
+.nav-item {
+  width: 30%;
+  color: white;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+}
+
+.nav-item a {
+  color: white;
+}
+
+ul {
+  align-items: center;
+  margin: 20 auto;
+}
+.coin-list-element {
+  width: 50vw;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  border: 1px solid grey;
+  border-radius: 20px;
+  padding: 40px;
+  margin: auto;
+}
+
+.site-layout-content{
+  background-color: white;
+  padding: 12px 0px;
+}
